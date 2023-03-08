@@ -9,4 +9,4 @@ Jobarouter is a Github repository for a website developed solely for learning pu
 
 ## Setup
 - run ```npm i``` to install the dependencies.
-- run ```npm start``` to start the development server.
+- run ```npm run dev``` to start the development server.
